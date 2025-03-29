@@ -15,3 +15,7 @@ Data Visualization: Utilized various chart types (bar charts, KPI cards, etc.) t
 User Interaction: Integrated navigation buttons to allow users to switch between dashboards seamlessly, improving user experience.
 
 Insights and Recommendations: Analyzed sales data to identify trends and provide actionable insights
+![image](https://github.com/user-attachments/assets/b5482a35-8778-4c96-be2d-dff8781c8b45)
+
+![image](https://github.com/user-attachments/assets/ee5d169e-e749-416b-82e9-aa2e9fbb00e2)
+
